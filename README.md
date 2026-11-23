@@ -1,6 +1,10 @@
 # The World in One Day — Monday 23 November 2026
 
-Entry for make.fun competition `news-image-20261123`: a program that
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/wzqdurl/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/wzqdurl/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Entry for the [make.fun](https://make.fun/bounty/news-image-20261123) competition `news-image-20261123`: a program that
 draws, entirely in code, a newspaper front page summing up the world's
 news of Monday 23 November 2026.
 
